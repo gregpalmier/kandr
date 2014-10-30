@@ -6,6 +6,7 @@ The exercise answers can be found by simply googling for them or by going [here]
 
 ## Chapters and exercises
 
-Chapters exist.  They have exercises in them.
+Chapters exist.  They have exercises in them.  Folders for each chapter are made with the appropriate exercise
+number therein.
 
 Author:: greg palmier(<gregpalmier@gmail.com>)
