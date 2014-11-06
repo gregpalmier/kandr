@@ -8,8 +8,9 @@ main(){
       ++b;
     if (c == '\t')
       ++t;
-    if (c == '\n')
+    if (c == '\n'){
       ++nl;
-    printf("%d %d %d\n", b, t, nl);
+      printf("%d %d %d\n", b, t, nl);
+    }
   }
 }
