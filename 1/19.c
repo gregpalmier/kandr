@@ -45,8 +45,6 @@ int main(void){
   int i = 0;
   int len = 0;
   char phrase[MAXLINE];
-  char line[MAXLINE];
-  char t[MAXLINE];
   while ((len = readline(phrase, MAXLINE)) > 0){
       printf("phrase: %s\n", phrase);
       reverse(phrase);
