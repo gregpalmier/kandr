@@ -1,5 +1,7 @@
 /* Exercise 2-8. Write a function rightrot(x,n) that returns the value of the integer x
  * rotated to the right by n positions. */
+
+/* this isn't working. */
 #include<stdio.h>
 unsigned rightrot(unsigned x, int n){
 
@@ -19,7 +21,7 @@ unsigned rightrot(unsigned x, int n){
 }
 
 int main(){
-  unsigned int x = 43690;
+  unsigned int x = 256;
   int n = 16;
   printf("rightrot(%d,%d):\n", x,n);
   rightrot(x,n);
